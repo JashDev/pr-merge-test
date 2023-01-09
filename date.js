@@ -6,6 +6,7 @@ class Date {
     console.log ('getDate');
     console.log ('getDate');
     console.log ('getDate');
+    console.log ('getDate');
     return this.date;
   }
 
