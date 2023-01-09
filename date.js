@@ -3,6 +3,7 @@ class Date {
     this.date = new Date();
   }
   getDate() {
+    console.log ('getDate');
     return this.date;
   }
 

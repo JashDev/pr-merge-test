@@ -1,5 +1,6 @@
 class Daily {
   constructor() {
+    console.log('constructor');
     this.daily = [];
   }
 
