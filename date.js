@@ -7,6 +7,7 @@ class Date {
   }
 
   setDate(date) {
+    console.log('setDate');
     this.date = date
   }
 }
