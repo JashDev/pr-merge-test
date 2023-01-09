@@ -8,6 +8,7 @@ class Daily {
   }
 
   getDaily() {
+    console.log('this.dailye');
     return this.daily;
   }
 }
