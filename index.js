@@ -5,3 +5,4 @@ console.log(suma)
 
 const c = 14
 const d = 15
+const suma2 = c + d
